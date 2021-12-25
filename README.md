@@ -1,4 +1,4 @@
-#CryptoVerse
+# CryptoVerse
 
 Cryptocurrencies application where you can see data about top cryptocurrencies, Markets and Exchanges, popular cryptocurrencies news and much more.
 
